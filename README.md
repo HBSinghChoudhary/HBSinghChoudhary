@@ -12,6 +12,9 @@
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=HBSinghChoudhary&theme=chartreuse-dark"></p>
 
 ### 🛠 &nbsp;Tech Stack
+<p align="center">
 <a>
   <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,arduino,autocad,bash,blender,bootstrap,c,cs,cpp,html,css,js,discord,bots,figma,git,github,gitlab,idea,kali,linux,mysql,pycharm,raspberrypi,react,selenium,solidity,swift,tensorflow,unity,unreal,visualstudio,vscode,webflow,wordpress,python,windows&perline=14" />
 </a>
+</p>
+

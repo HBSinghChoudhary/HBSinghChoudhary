@@ -13,5 +13,5 @@
 
 ### 🛠 &nbsp;Tech Stack
 <a>
-  <img src="https://skillicons.dev/icons?i=c,python,windows,vscode,github,git&perline=14" />
+  <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,arduino,autocad,bash,blender,bootstrap,c,cs,cpp,html,css,js,discord,bots,figma,git,github,gitlab,idea,kali,linux,mysql,pycharm,raspberrypi,react,selenium,solidity,swift,tensorflow,unity,unreal,visualstudio,vscode,webflow,wordpress,python,windows&perline=14" />
 </a>
